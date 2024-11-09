@@ -1,0 +1,7 @@
+# Comparing Fixture Dependencies for Kotlin
+
+|                | Option 1                                                                                                                                                                            | Option 2                                                                                            |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Dependency** | Nylle - KotlinFixture                                                                                                                                                               | Mtedone - PODAM                                                                                     |
+| **Documentation** | [GitHub - Nylle/KotlinFixture](https://github.com/Nylle/KotlinFixture)                                                                                                              | [Podam - Welcome to Jemos PODAM](https://mtedone.github.io/podam/)                                  |
+| **Pros and cons** | ✅ Initially developed for Kotlin and likely more performant for it<br> ✅ Null-safe<br> ✅ Easier global configurations<br> ❌ Smaller community | ✅ Annotation-based for default values (RelaxedMockK can do this)<br> ❌ No default feature for lists |
